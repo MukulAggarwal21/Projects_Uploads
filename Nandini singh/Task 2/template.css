@@ -1,0 +1,81 @@
+body{
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+#main{margin-top: 2rem; 
+ margin-bottom: 2rem;
+    margin-left: 500px; margin-right: 400px;border: 100px;border-color: black;
+    background-color: white;
+    height: 700px; width: 400px; border-radius: 50px;
+    padding: 1rem;
+    border-color: black;
+    border-width: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    
+    
+
+}
+img{
+    margin-left: 50px; margin-top: 20px;
+}
+h1{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+margin-left: 150px;
+margin-bottom: 0px;
+} 
+p{
+    color: darkgrey;
+    font-size: larger;
+    margin-left: 130px;
+    margin-top: 0px;
+}
+.circle{
+    margin-left:11rem;
+}
+#pink{
+    width: 20px;
+    height: 20px;
+    background-color: pink;
+border-radius: 100%;
+border-color: pink;
+margin-right: 0.5rem;
+}
+#grey{ 
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    width: 20px;
+    background-color:grey;
+    border-radius: 100%;
+    height: 20px;
+    border-color: grey;
+}
+#green{
+    margin-left: 0.5rem;
+    
+    border-radius: 100%;
+    background-color:green;
+height: 20px;
+width: 20px;
+border-color: green;
+margin-bottom: 2rem;
+}
+.text{
+    margin-left: 0px;
+    color: black;
+    font-family: 'Caveat', cursive;}
+    #price{
+        font-size: 2rem;
+        margin-left: 10rem;
+        margin-bottom: 3rem;
+    }
+    #button{
+        border: 2px solid red;
+        border-radius: 30%;
+        margin-left: 8rem;
+        color: red;
+        border-color: red;
+        background-color: white;
+        height: 8vh;
+        width: 10vw;
+    }
+
